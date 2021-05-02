@@ -1,0 +1,38 @@
+1.a
+2.equals()
+3.d
+4.d
+5.d
+6.c
+7.c
+8.a
+9.d
+9.c
+10.1&2
+11.c
+12.d
+13.a
+14.c
+
+15.
+Polymorphism in Java is a concept by which we can perform a single action in different ways.
+There are two types of polymorphism in Java: compile-time polymorphism and runtime polymorphism.
+We can perform polymorphism in java by method overloading and method overriding.
+
+Runtime Polymorphism in Java:
+is a process in which a call to an overridden method is resolved at runtime rather 
+than compile-time.
+
+Method Overriding in Java:
+If subclass (child class) has the same method as declared in the parent class, it is known as 
+method overriding in Java.
+
+
+Method Overloading in Java:
+If a class has multiple methods having same name but different in parameters, 
+it is known as Method Overloading.
+
+
+
+
+
